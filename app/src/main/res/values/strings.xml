@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ShaunsDiceGame</string>
+    <string name="app_about">I, 20210069 Shaun confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students.\n\n
+The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged.</string>
+    <string name="info_text">Select the dice you want to keep for the next throw. If you mistakenly select, you can unselect it by clicking it again.</string>
+</resources>
